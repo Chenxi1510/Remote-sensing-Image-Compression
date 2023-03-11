@@ -6,6 +6,6 @@ This repository contains the code for reproducing the results with trained model
 
 <big>**Environment**<big>
 
-Python==3.6
-torch==1.6.0
+Python==3.6  
+torch==1.6.0  
 torchvision==0.7.0
