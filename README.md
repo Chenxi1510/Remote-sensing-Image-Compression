@@ -12,7 +12,7 @@ torchvision==0.7.0
 
   
 ## Data download  
-  ISPR Vaihingen Data: https://www2.isprs.org/
-  AID Dataset: https://paperswithcode.com/dataset/aid
-  NWPU-RSC Dataset:
+  ISPR Vaihingen Data: https://www2.isprs.org/  
+  AID Dataset: https://paperswithcode.com/dataset/aid  
+  NWPU-RSC Dataset: 链接：https://pan.baidu.com/s/1GtzQUrq0FmvLWo6h0CWSw 提取码：1510
   
