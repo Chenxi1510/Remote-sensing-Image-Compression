@@ -19,9 +19,4 @@ torchvision==0.7.0
 
 ## Sample of the NWPU-RSC
   
-![image]([https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/data.jpg)
-<div align="center">
-  <a href='https://hific.github.io'>
-  <img src='https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/data.jpg' width="80%"/>
-  </a>
-</div>
+![image]([https://github.com/Chenxi1510/Remote-sensing-Image-Compression/main/Image/data.jpg)
