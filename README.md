@@ -16,4 +16,7 @@ torchvision==0.7.0
   AID Dataset: https://paperswithcode.com/dataset/aid  
   NWPU-RSC Dataset: https://pan.baidu.com/s/1XismIJG5iO9aB9hv0VpofQ 
 提取码：1510 
+
+## Sample of the NWPU-RSC
   
+![hustlin_erd](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/data.pdf)
