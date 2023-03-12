@@ -32,10 +32,17 @@ Experimental results of different methods on the AID dataset. In each example, t
 ### Experimental results on the NWPU-RSC dataset
 ![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/NWPU-RSC.png)
 
-Experimental results of different methods on the NWPU-RSC dataset. In each example, the right-most columns represent ground truths for input image. In the other columns, the first row shows the reconstructed results by different methods, and the second row shows the magnified details of the red rectangle.
+### Experimental results on the ISPR Vaihingen Dataset
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/ISPRresult.png)
+Experimental results of different methods on the ISPR Vaihingen Dataset. In each example, the right-most columns represent ground truths for input image. In the other columns, the first row shows the reconstructed results by different methods, and the second row shows the magnified details of the red rectangle.
 
 
+### Experimental results on the NWPU-RSC dataset
+Rate-distortion curves of different compression algorithms w.r.t. (a) PSNR,  (b) M-SSIM, (c) VIETIM and (d) LPIPS  on the ISPR dataset.
 
 ##  Change detection results in different compression methods
 ![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/change_detection.JPG)
-Visualization of change detection results.(a) Orginal Images, (b) BPG, (c) JPEG2000, (d) GMM, (e) C2F, (f) EGA-Net (lo), (g) EGA-Net (me) and (h) EGA-Net (hi). 
+Visualization of change detection results.(a) Orginal Images, (b) BPG, (c) JPEG2000, (d) GMM, (e) C2F, (f) EGA-Net (lo), (g) EGA-Net (me) and (h) EGA-Net (hi).
+
+
+
