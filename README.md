@@ -22,7 +22,14 @@ torchvision==0.7.0
 ![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/data.JPG)
 
 
-## Visual Results
-![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/AID.png))
+## Visual Results 
+### Experimental results on the AID dataset
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/AID.png)
 
 Experimental results of different methods on the AID dataset. In each example, the right-most columns represent ground truths for input image. In the other columns, the first row shows the reconstructed results by different methods, and the second row shows the magnified details of the red rectangle.
+
+
+### Experimental results on the NWPU-RSC dataset
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/NWPU-RSC.png)
+
+Experimental results of different methods on the NWPU-RSC dataset. In each example, the right-most columns represent ground truths for input image. In the other columns, the first row shows the reconstructed results by different methods, and the second row shows the magnified details of the red rectangle..
