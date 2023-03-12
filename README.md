@@ -19,4 +19,4 @@ torchvision==0.7.0
 
 ## Sample of the NWPU-RSC
   
-![image]([https://github.com/Chenxi1510/Remote-sensing-Image-Compression/main/Image/data.JPG)
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/data.JPG)
