@@ -1,6 +1,5 @@
 '''
-Ziteng Cui
-cui@mi.t.u-tokyo.ac.jp
+chenxihan
 '''
 from tqdm import tqdm
 import numpy as np
