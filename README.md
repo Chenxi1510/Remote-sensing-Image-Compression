@@ -22,8 +22,9 @@ torchvision==0.7.0
 ![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/data.JPG)
 
 
-####
-| \\multicolumn\{1\}\{\|c\|\}\{Datasets\}                                                             | \\multicolumn\{1\}\{c\|\}\{Images\} | \\multicolumn\{1\}\{c\|\}\{Images Size\}                    | \\multicolumn\{1\}\{c\|\}\{Categories\} | \\multicolumn\{1\}\{c\|\}\{Image format\} | \\multicolumn\{1\}\{c\|\}\{Objective task\}    |
+## Different Visual Tasks on RS Benchmark Dataset
+
+| Datasets\}                                                             | \\multicolumn\{1\}\{c\|\}\{Images\} | \\multicolumn\{1\}\{c\|\}\{Images Size\}                    | \\multicolumn\{1\}\{c\|\}\{Categories\} | \\multicolumn\{1\}\{c\|\}\{Image format\} | \\multicolumn\{1\}\{c\|\}\{Objective task\}    |
 |-----------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------|-----------------------------------------|-------------------------------------------|------------------------------------------------|
 | \\multicolumn\{1\}\{\|c\|\}\{NWPU VHR\-10\\cite\{NWPUVHR1\},\\cite\{NWPUVHR2\},\\cite\{NWPUVHR3\}\} | \\multicolumn\{1\}\{c\|\}\{800\}    | \\multicolumn\{1\}\{c\|\}\{\}                               | \\multicolumn\{1\}\{c\|\}\{10\}         | \\multicolumn\{1\}\{c\|\}\{\.JPG\}        | \\multicolumn\{1\}\{c\|\}\{Detection\}         |
 | \\multicolumn\{1\}\{\|c\|\}\{UCAS\-AOD \\cite\{UCAS\-AOD\}\}                                        | \\multicolumn\{1\}\{c\|\}\{910\}    | \\multicolumn\{1\}\{c\|\}\{1280\*659\}                      | \\multicolumn\{1\}\{c\|\}\{2\}          | \\multicolumn\{1\}\{c\|\}\{\.PNG\}        | \\multicolumn\{1\}\{c\|\}\{Detection\}         |
