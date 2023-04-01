@@ -24,9 +24,9 @@ torchvision==0.7.0
 
 ## Different Visual Tasks on RS Benchmark Dataset
 
-| Datasets\}                                                             | \\multicolumn\{1\}\{c\|\}\{Images\} | \\multicolumn\{1\}\{c\|\}\{Images Size\}                    | \\multicolumn\{1\}\{c\|\}\{Categories\} | \\multicolumn\{1\}\{c\|\}\{Image format\} | \\multicolumn\{1\}\{c\|\}\{Objective task\}    |
+| Datasets                                                            |Images | Images Size                  | Categories | Image format | Objective task   |
 |-----------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------|-----------------------------------------|-------------------------------------------|------------------------------------------------|
-| \\multicolumn\{1\}\{\|c\|\}\{NWPU VHR\-10\\cite\{NWPUVHR1\},\\cite\{NWPUVHR2\},\\cite\{NWPUVHR3\}\} | \\multicolumn\{1\}\{c\|\}\{800\}    | \\multicolumn\{1\}\{c\|\}\{\}                               | \\multicolumn\{1\}\{c\|\}\{10\}         | \\multicolumn\{1\}\{c\|\}\{\.JPG\}        | \\multicolumn\{1\}\{c\|\}\{Detection\}         |
+| NWPU VHR\-10 | 800   | \                              | 10        | .JPG        | Detection        |
 | \\multicolumn\{1\}\{\|c\|\}\{UCAS\-AOD \\cite\{UCAS\-AOD\}\}                                        | \\multicolumn\{1\}\{c\|\}\{910\}    | \\multicolumn\{1\}\{c\|\}\{1280\*659\}                      | \\multicolumn\{1\}\{c\|\}\{2\}          | \\multicolumn\{1\}\{c\|\}\{\.PNG\}        | \\multicolumn\{1\}\{c\|\}\{Detection\}         |
 | \\multicolumn\{1\}\{\|c\|\}\{FAIR1M\\cite\{FAIR1M\}\}                                               | \\multicolumn\{1\}\{c\|\}\{15266\}  | \\multicolumn\{1\}\{c\|\}\{1000\*1000$\\sim$10000\*10000\}  | \\multicolumn\{1\}\{c\|\}\{5\}          | \\multicolumn\{1\}\{c\|\}\{\}             | \\multicolumn\{1\}\{c\|\}\{recognition\}       |
 | \\multicolumn\{1\}\{\|c\|\}\{Inria Aerial Image Labeling \\cite\{InriaAerial\}\}                    | \\multicolumn\{1\}\{c\|\}\{360\}    | \\multicolumn\{1\}\{c\|\}\{5000\*5000\}                     | \\multicolumn\{1\}\{c\|\}\{2\}          | \\multicolumn\{1\}\{c\|\}\{\.Geotiff\}    | \\multicolumn\{1\}\{c\|\}\{Detection\}         |
