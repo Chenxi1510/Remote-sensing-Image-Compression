@@ -24,11 +24,11 @@ torchvision==0.7.0
 
 ## Different Visual Tasks on RS Benchmark Dataset
 
-![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/DIFFERNET.png)
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/DIFFERNET.png)
 
 
 ## Data Sources of the NWPU-RSC
-![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/tree/main/Image/SOURCE.png)
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/SOURCE.png)
 
 
 
