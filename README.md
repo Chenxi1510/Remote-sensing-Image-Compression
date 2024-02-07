@@ -54,3 +54,23 @@ Visualization of change detection results.(a) Orginal Images, (b) BPG, (c) JPEG2
 
 
 
+
+
+### Citation
+
+If you find our project is useful for your research, please cite:
+```
+@ARTICLE{10247080,
+  author={Han, Pengfei and Zhao, Bin and Li, Xuelong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Edge-Guided Remote-Sensing Image Compression}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2023.3314012}}
+
+```
+
+
+
